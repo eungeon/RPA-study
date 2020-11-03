@@ -70,7 +70,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         <av:Point x:Key="ShapeLocation">270,2.5</av:Point>
         <av:Size x:Key="ShapeSize">60,75</av:Size>
-        <av:PointCollection x:Key="ConnectorLocation">300,77.5 300,211 420,211</av:PointCollection>
+        <av:PointCollection x:Key="ConnectorLocation">300,77.5 300,107.5 520,107.5 520,161.5</av:PointCollection>
         <x:Double x:Key="Width">620</x:Double>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
@@ -259,7 +259,7 @@
           <av:Size x:Key="ShapeSize">200,99</av:Size>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <Sequence sap2010:Annotation.AnnotationText="// Information" DisplayName="Lv.3_8" sap:VirtualizedContainerService.HintSize="352,616" sap2010:WorkflowViewState.IdRef="Sequence_8">
+      <Sequence sap2010:Annotation.AnnotationText="// Information" DisplayName="Lv.3_8" sap:VirtualizedContainerService.HintSize="200,99" sap2010:WorkflowViewState.IdRef="Sequence_8">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
