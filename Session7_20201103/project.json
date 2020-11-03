@@ -1,7 +1,7 @@
 {
   "name": "Session7_20201103",
   "description": "빈 프로세스",
-  "main": "1_Text_string_mothod.xaml",
+  "main": "1_Text_string_method.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
@@ -42,8 +42,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "1_Text_string_mothod.xaml",
-      "uniqueId": "a2eacd0f-dff8-4e9a-8957-850903937c37",
+      "filePath": "1_Text_string_method.xaml",
+      "uniqueId": "2dabfe19-eae1-4908-96cd-5be27ab1c935",
       "input": [],
       "output": []
     }
