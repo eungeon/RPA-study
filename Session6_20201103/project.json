@@ -1,7 +1,7 @@
 {
   "name": "Session6_20201103",
   "description": "빈 프로세스",
-  "main": "Main.xaml",
+  "main": "1_Selector_basic.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
@@ -42,8 +42,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "b0a4c70e-7768-49bc-a401-c3a010e1b87e",
+      "filePath": "1_Selector_basic.xaml",
+      "uniqueId": "26bdb869-7190-4e18-8e0b-11ecb712afbb",
       "input": [],
       "output": []
     }
